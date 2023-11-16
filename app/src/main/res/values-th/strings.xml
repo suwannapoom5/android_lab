@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">บีเอ็มอาร์</string>
+    <string name="edit_message"></string>
+    <string name="resultTextView"></string>
+    <string name="gender_text">เพศ</string>
+    <string name="male_text">ชาย</string>
+    <string name="female_text">หญิง</string>
+    <string name="years_text">อายุ</string>
+    <string name="height_text">ส่วนสูง</string>
+    <string name="weight_text">น้ำหนัก</string>
+    <string name="exercise_text">การออกกำลังกาย</string>
+    <string name="calculate_text">คำนวณ</string>
+    <string name="result_message">บีเอ็มอาร์ %.2f แคลอรี่</string>
+    <string-array name="planets_array">
+        <item>ไม่ออกกําลังกาย</item>
+        <item>ออกกําลังกาย 1-2 วันต่อสัปดาห์</item>
+        <item>ออกกําลังกาย 3-5 วันต่อสัปดาห์</item>
+        <item>ออกกําลังกาย 6-7 วันต่อสัปดาห์</item>
+        <item>นักกีฬาอาชีพ</item>
+    </string-array>
+</resources>

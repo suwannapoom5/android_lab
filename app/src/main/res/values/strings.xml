@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMR</string>
+    <string name="edit_message"></string>
+    <string name="resultTextView"></string>
+    <string name="gender_text">Gender</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="years_text">Age (Years)</string>
+    <string name="height_text">Height (cm)</string>
+    <string name="weight_text">Weight (kg)</string>
+    <string name="exercise_text">Exercise</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="result_message">BMR %.2f Calorie</string>
+    <string-array name="planets_array">
+        <item>None</item>
+        <item>1to2 days a week</item>
+        <item>3to5 days a week)</item>
+        <item>6to7 days a week</item>
+        <item>นAll the time</item>
+    </string-array>
+</resources>
